@@ -1,71 +1,10 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Práctica 2 - Enlaces a Videos</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 20px;
-        }
-        h1 {
-            text-align: center;
-            color: #4CAF50;
-        }
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background-color: #fff;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-        .video-link {
-            margin: 20px 0;
-            padding: 15px;
-            background-color: #e7f7f1;
-            border-left: 5px solid #4CAF50;
-            border-radius: 5px;
-            text-decoration: none;
-            color: #333;
-            display: block;
-        }
-        .video-link:hover {
-            background-color: #d1efe5;
-        }
-        .video-link h2 {
-            margin: 0;
-            font-size: 18px;
-            color: #4CAF50;
-        }
-        .video-link p {
-            margin: 5px 0 0;
-            font-size: 14px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <h1>Enlaces a los videos correspondientes a la práctica 2</h1>
-        
-        <a href="https://drive.google.com/file/d/1z_aB_WhKQTjkLpsr0ixCQq2uLwWx7fmc/view?usp=sharing" class="video-link">
-            <h2>Instalación de Linux Ubuntu como Dual Boot</h2>
-            <p>Ver video</p>
-        </a>
-        
-        <a href="https://drive.google.com/file/d/1bR7B_Qq3mxUMqsYzeeDYYhINp4m1unep/view?usp=sharing" class="video-link">
-            <h2>Configuración de Redes Cableadas</h2>
-            <p>Ver video</p>
-        </a>
-        
-        <a href="https://drive.google.com/file/d/1lfcXs2GDRgkmeooiOkt3Vw_ijyfF0b5q/view?usp=sharing" class="video-link">
-            <h2>Instalación de Linux como Máquina Virtual</h2>
-            <p>Ver video</p>
-        </a>
-    </div>
-</body>
-</html>
+Enlaces a los videos correspondientes a la práctica 2
+
+Instalación de Linux Ubuntu como Dual Boot: 
+https://drive.google.com/file/d/1z_aB_WhKQTjkLpsr0ixCQq2uLwWx7fmc/view?usp=sharing
+
+Configuración de Redes Cableadas:
+https://drive.google.com/file/d/1bR7B_Qq3mxUMqsYzeeDYYhINp4m1unep/view?usp=sharing
+
+Instalación de Linux como Máquina Virtual: 
+https://drive.google.com/file/d/1lfcXs2GDRgkmeooiOkt3Vw_ijyfF0b5q/view?usp=sharing
